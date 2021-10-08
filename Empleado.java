@@ -11,6 +11,7 @@ public class Empleado {
 	private Integer agno;
 	private Integer mes;
 	private Integer dia;
+	private Integer id;
 	
 	
 	public Empleado(String nombre, String apellido, Integer dni, Integer edad, String estado, String categoria, Integer agno, Integer mes, Integer dia) {
